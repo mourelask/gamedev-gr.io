@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Καλωσήρθατε στη βάση γνώσεων του Gamedev.gr 
 
 You can use the [editor on GitHub](https://github.com/mourelask/gamedev-gr.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
