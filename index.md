@@ -1,7 +1,5 @@
 ## Καλωσήρθατε στη βάση γνώσεων του Gamedev.gr 
 
-You can use the [editor on GitHub](https://github.com/mourelask/gamedev-gr.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 ### Game Development
 
 #### Fully featured game engines with editor
@@ -24,29 +22,27 @@ You can use the [editor on GitHub](https://github.com/mourelask/gamedev-gr.io/ed
 - [libgdx](https://libgdx.com/) (java) - foss
 - [Urho3d](https://urho3d.io/) (c++ / lua / angelscript) - foss
 - [Cocos2dx](https://www.cocos.com/en/cocos2dx) (c++ / lua / javascript) - foss
-- [Phaser](https://phaser.io/) (javascript)
-- [Pygame](https://www.pygame.org/) (python)
-- [bevy](https://bevyengine.org/) (rust)
+- [Phaser](https://phaser.io/) (javascript) - foss
+- [Pygame](https://www.pygame.org/) (python) - foss
+- [bevy](https://bevyengine.org/) (rust) - foss
 
 #### Specific Genre Engine
 
-- [Renpy](https://www.renpy.org/) - Visual Novels (puthon)
-- [osu-framework](https://github.com/ppy/osu-framework) (c#)
+- [Renpy](https://www.renpy.org/) - Visual Novels (puthon) - foss
+- [osu-framework](https://github.com/ppy/osu-framework) (c#) - foss
 
 #### Useful Libraries
 
-- SDL
-- SFML
-- Sokol
-- Raylib
-- bgfx
+- [SDL](https://www.libsdl.org/) - foss
+- [SFML](https://www.sfml-dev.org/) - foss
+- [Sokol](https://github.com/floooh/sokol) - foss
+- [Raylib](https://www.raylib.com/) - foss
+- [bgfx](https://github.com/bkaradzic/bgfx) - foss
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mourelask/gamedev-gr.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+
+For syntax help check [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
