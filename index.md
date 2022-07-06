@@ -1,12 +1,22 @@
-## Καλωσήρθατε στη βάση γνώσεων του Gamedev.gr 
+## Καλωσήρθατε στη βάση γνώσεων του Gamedev.gr
 
 ## Game Design
+Διάφορα resources όσον αφορά το game and narrative design που έχουν μοιρασθεί τα μέλη μας στο [Discord](https://discord.gg/xJSa4mfK4d) server του συλλόγου.
 
 ### Books
+- [The Art of Game Design: A Book of Lenses](https://www.schellgames.com/art-of-game-design/)
+- [The Aesthetic of Play](https://mitpress.mit.edu/books/aesthetic-play)
+- [Casual Game Design](https://www.amazon.com/Casual-Game-Design-Designing-Gamer/dp/0123749530)
 
-### Tutorials
+### Videos
+- [razbutten youtube channel](https://www.youtube.com/c/razbuten)
+- [How to Design a Tutorial](https://www.youtube.com/watch?v=45csSEotJY8)
+
+### Articles
+- [Kishōtenketsu: Exploring The Four Act Story Structure](https://artofnarrative.com/2020/07/08/kishotenketsu-exploring-the-four-act-story-structure/)
 
 ## Game Development
+Links για τα πιο δημοφιλή game engines, frameworks και libraries όπως προτείνονται από τα μέλη μας.
 
 ### Engines - Frameworks - Libraries
 
